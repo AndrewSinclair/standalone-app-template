@@ -1,0 +1,1 @@
+Standalone-app-template
